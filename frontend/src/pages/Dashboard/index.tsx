@@ -25,15 +25,8 @@ const Dashboard = () => {
 
                 </div>
                 <DataTable />
-                <DataTable />
-                <DataTable />
-                <DataTable />
-                <DataTable />
-                <DataTable />
-                <DataTable />
-                <DataTable />
-                <DataTable />
-                <DataTable />
+                
+                
             </div>
             <Footer />
 
