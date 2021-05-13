@@ -53,7 +53,7 @@ Esta aplicação consiste em exibir um dashboard  com graficos e analisis de ven
 
 ```bash
 ##clonar repositório
-git clone 
+git clone https://github.com/lisber42/projeto-sds3.git
 
 # entrar na pasta do projeto back end
 cd backend
@@ -66,8 +66,8 @@ cd backend
 - Pré-requisitos: npm / yarn
 
 ```bash
-# clonar repositório
-git clone 
+# clonar repositório 
+git clone https://github.com/lisber42/projeto-sds3.git
 
 # entrar na pasta do projeto front end web
 cd front-web
